@@ -9,5 +9,5 @@ __pycache__/
 *.key
 
 #
-sandboxes/figures
-sandboxes/pdfs
+archive/figures
+archive/pdfs
