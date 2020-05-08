@@ -9,5 +9,5 @@ __pycache__/
 *.key
 
 #
-archive/figures
+archive/outputs
 archive/pdfs
